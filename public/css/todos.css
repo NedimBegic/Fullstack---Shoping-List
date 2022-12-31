@@ -89,6 +89,6 @@ a{
 @media (min-width:1300px) {
     .container{
         width:40em;
-        
+        max-height: 35em;
     }
 }
