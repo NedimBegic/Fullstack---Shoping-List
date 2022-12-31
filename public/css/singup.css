@@ -1,0 +1,27 @@
+.container form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.container form *{
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+
+.button{
+    width:5em;
+    height:2em;
+    font-weight: bold;
+    background: linear-gradient(rgb(185, 180, 180),rgb(202, 191, 191));
+    color: #333;
+    border: 1px solid white;
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+.button:hover{
+    background:linear-gradient(rgb(234, 228, 228),rgb(240, 213, 213));
+    cursor: pointer;
+}
