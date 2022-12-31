@@ -22,4 +22,5 @@ form input{
 .sub:hover{
     background: linear-gradient(rgb(169, 156, 133),wheat);
     cursor: pointer;
+    
 }
