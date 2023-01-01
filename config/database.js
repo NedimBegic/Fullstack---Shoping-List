@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
+require('dotenv').config({path: './config/.env'})
 
-const DB_STRING = "mongodb+srv://nedim:nedim123@social.j4binvl.mongodb.net/?retryWrites=true&w=majority"
 const connectDB = async () => {
   try {
     const conn = await mongoose.connect(process.env.DB_STRING, {
