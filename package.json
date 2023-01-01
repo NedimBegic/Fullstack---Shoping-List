@@ -27,6 +27,6 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "validator": "^13.6.0",
-    "vercel": "^28.10.1"
+    "vercel": "^19.1.2"
   }
 }
