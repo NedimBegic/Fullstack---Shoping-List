@@ -5,6 +5,6 @@ This is my first full-stack web app build with Node.js, and MongoDB rendered in 
 In this project, I wanted to get familiar with the basics of backend development, how to build a database, and how to respond to user requests using node.js. Authentication is handeled with passport.js.
 </p>
 
-The link: https://shoping-list.up.railway.app/
+The link: https://shoppinglist.up.railway.app/
 
 <img src="https://i.ibb.co/TBvHs42/shopping.png" width=700 height=500 />
